@@ -1,0 +1,8 @@
+G:\CameraViewer\CameraViewer\obj\Debug\ResolveAssemblyReference.cache
+G:\CameraViewer\CameraViewer\obj\Debug\CameraViewer.Form1.resources
+G:\CameraViewer\CameraViewer\obj\Debug\CameraViewer.Properties.Resources.resources
+G:\CameraViewer\CameraViewer\obj\Debug\CameraViewer.csproj.GenerateResource.Cache
+G:\CameraViewer\CameraViewer\bin\Debug\CameraViewer.exe
+G:\CameraViewer\CameraViewer\bin\Debug\CameraViewer.pdb
+G:\CameraViewer\CameraViewer\obj\Debug\CameraViewer.exe
+G:\CameraViewer\CameraViewer\obj\Debug\CameraViewer.pdb
